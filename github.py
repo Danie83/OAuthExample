@@ -37,7 +37,7 @@ def login():
 
 @app.route('/callback')
 def callback():
-    """After authorization, the user is redirected to the redirected uri which is part of
+    """After authorization, the user is redirected to /callback which is part of
     the complete url used when authorizing the user. This route is only available if the
     user has given authorization and is only accessible with the access token received.
     """
