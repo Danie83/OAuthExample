@@ -39,7 +39,7 @@ def login():
 def callback():
     """After authorization, the user is redirected to /callback which is part of
     the complete url used when authorizing the user. This route is only available if the
-    user has given authorization and is only accessible with the access token received.
+    user has given authorization.
     """
 
     token_url = 'https://github.com/login/oauth/access_token'
