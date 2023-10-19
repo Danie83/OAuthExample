@@ -41,3 +41,6 @@ To use this code for Github OAuth authorization:
 
 ## Conclusion
 This code demonstrates a basic implementation of Github OAuth authorization using Flask. It allows users to authorize the application to access their Github account and retrieve their authorized user information. Further improvements and customization can be made based on specific application requirements.
+
+## Presentation Link and Resources
+https://docs.google.com/presentation/d/1Tb70ncy_CtTaUcCcOkEROKigNbIG3iid0WuKOMFfOGU/edit#slide=id.g290a54888ce_0_10
